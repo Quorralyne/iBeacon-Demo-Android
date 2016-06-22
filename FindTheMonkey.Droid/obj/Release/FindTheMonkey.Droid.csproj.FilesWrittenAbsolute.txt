@@ -1,0 +1,16 @@
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/bin/Release/FindTheMonkey.Droid.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/bin/Release/com.findthemonkey_android.apk
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/bin/com.findthemonkey_android.apk
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/layout/main.xml
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/values/strings.xml
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/drawable/icon.png
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/drawable-hdpi/xamarin_icon.png
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/drawable-mdpi/xamarin_icon.png
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/res/drawable-xhdpi/xamarin_icon.png
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/R.cs.flag
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/bin/Release/com.findthemonkey_android-Signed.apk
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/uploadflags.txt
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/FindTheMonkey.Droid.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/bin/Release/Android-iBeacon-Service.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/bin/Release/Xamarin.Android.Support.v4.dll

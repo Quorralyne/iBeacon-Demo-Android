@@ -1,0 +1,14 @@
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/FindTheMonkey.Droid.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.Xml.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/Mono.Android.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/Mono.Android.Export.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/Java.Interop.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.Core.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/Android-iBeacon-Service.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/Xamarin.Android.Support.v4.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/mscorlib.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.ServiceModel.Internals.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.Net.Http.dll
+/Users/heatherdowning/Git/iBeacon-Demo-Android/FindTheMonkey.Droid/obj/Release/android/assets/System.ComponentModel.Composition.dll
